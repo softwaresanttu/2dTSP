@@ -1,10 +1,12 @@
 // 2dTSP.cpp : Defines the entry point for the application.
 //
 
+// 2-dimensional traveling salesman problem
+
 #include "stdafx.h"
 #include "2dTSP.h"
 
-#define MAX_LOADSTRING 100
+#define MAX_LOADSTRING 100d
 
 // Global Variables:
 HINSTANCE hInst;                                // current instance
